@@ -1,1 +1,1 @@
-libboost 1.83 for MapLibre Native
+libboost 1.86 for MapLibre Native
